@@ -1,5 +1,3 @@
-use core::prelude;
-
 fn main() {
     println!("1.2 格式化打印");
     println!("笔记路径./docs/01_hello_world/02_formatted_print.md");
